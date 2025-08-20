@@ -1,5 +1,6 @@
 # roblox-cleaner
 Clears all Roblox logs and traces from %localappdata% and Bloxstrap
+(this will not be updated, as there isn't much to add)
 
 Simply open the file before and after using an executor, and the rest is done for you.
 
